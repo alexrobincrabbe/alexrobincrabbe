@@ -78,3 +78,16 @@ If you’re working on something interesting — especially in web development, 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXROBINCRABBE&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&layout=compact&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+![Alex's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)
+
