@@ -1,16 +1,80 @@
-## Hi there 👋
+# ✨ Hi, I’m Alex — Full-Stack Developer & Creative Problem Solver
 
-<!--
-**alexrobincrabbe/alexrobincrabbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer with a background in **Biomedical Physics (M.Sc.)**, now building intuitive, meaningful digital experiences with **Python**, **JavaScript/TypeScript**, and modern web frameworks.
 
-Here are some ideas to get you started:
+I love working on projects that mix creativity, data, and user-friendly design — from multiplayer games to AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+
+- 🎮 **Boojum Games** — an online real-time word game built with **Django**, **Channels**, **WebSockets**, and **React**  
+  Multiplayer, chat, ranking system, weekly leaderboards, CloudAMQP, and more.
+
+- 🌱 **Mood Gardens** — a React/TypeScript + FastAPI app that uses **AI** to generate symbolic garden scenes from diary entries  
+  Includes shareable gardens, progress bars, a full image-generation pipeline, Prisma/Postgres, Redis/BullMQ, and a polished UI.
+
+- 🧪 **MRI Brain Tumour Classifier** — CNN model that classifies MRI scans into four categories (glioma, meningioma, pituitary, healthy).
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**
+- Python  
+- JavaScript & TypeScript  
+- SQL  
+- MATLAB
+
+### **Frontend**
+- React (TS)  
+- Vite  
+- Tailwind CSS  
+- Zustand / Context API  
+- Canvas / WebGL (games)
+
+### **Backend**
+- Django & Django REST Framework  
+- FastAPI  
+- Express.js & GraphQL  
+- WebSockets / Django Channels / RabbitMQ  
+- Prisma ORM  
+- Redis (BullMQ queues)
+
+### **DevOps & Tools**
+- Docker (learning)  
+- Azure (Postgres, Functions, VM)  
+- Heroku  
+- Cloudinary  
+- GitHub Actions  
+- Vercel
+
+---
+
+## 🧩 What I Enjoy
+- Solving problems analytically using my physics background  
+- Learning new frameworks quickly  
+- Building cooperative multiplayer features  
+- Hackathons, rapid prototyping, and teamwork  
+- UI/UX polish that makes an app feel *pleasant* and *alive*
+
+---
+
+## 🌍 Find Me Online
+- **Portfolio:** https://alex-crabbe.vercel.app  
+- **Website:** https://boojumgames.com  
+- **LinkedIn:** *(add your link here)*
+
+---
+
+## 📫 Get in Touch
+If you’re working on something interesting — especially in web development, AI, gaming, or sustainability — I’d love to chat.
+
+---
+
+## 🧮 GitHub Stats  
+*(Optional — remove if you prefer a cleaner profile)*
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
