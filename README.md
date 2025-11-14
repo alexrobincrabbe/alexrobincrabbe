@@ -21,30 +21,54 @@ I love working on projects that mix creativity, data, and user-friendly design �
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### **Languages**
-- Python  
-- JavaScript & TypeScript  
-- SQL  
-- MATLAB
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
+</p>
 
 ### **Frontend**
-- React (TS)  
-- Vite  
-- Tailwind CSS
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
 
 ### **Backend**
-- Django & Django REST Framework  
-- FastAPI  
-- Express.js & GraphQL  
-- WebSockets / Django Channels  
-- Prisma ORM
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20Channels-0C4B33?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+</p>
 
 ### 🧵 **Data & Messaging**
-- PostgreSQL  
-- Redis (caching, queues)  
-- RabbitMQ (message broker)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+</p>
+
+### **DevOps & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+</p>
+
+
 
 ### **DevOps & Tools**
 - Docker (learning)  
@@ -56,28 +80,17 @@ I love working on projects that mix creativity, data, and user-friendly design �
 
 ---
 
-## 🧩 What I Enjoy
-- Solving problems analytically
-- Learning new frameworks quickly  
-- Building cooperative multiplayer features
-- Hackathons, rapid prototyping, and teamwork  
-- UI/UX polish that makes an app feel *pleasant* and *alive*
-
----
-
 ## 🌍 Find Me Online
 - **Portfolio:** https://alex-crabbe.vercel.app  
 
 ---
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&show_icons=true&theme=transparent&layout=compact&hide=jupyter%20notebook,json&size_weight=0.3&count_weight=0.7&langs_count=6) 
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ALEXROBINCRABBE&show_icons=true&theme=transparent)
 
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
 
