@@ -3,7 +3,7 @@
 <img width="1867" height="594" alt="ARC-wide" src="https://github.com/user-attachments/assets/5f1a3388-3c37-4612-8d83-8ef92c55afcf" />
 
 
-# <span color="#00c951">Hi, I’m Alex — I’m a full-stack developer with a background in **Biomedical Physics (M.Sc.)**</span>
+# <span color="#00c951">Hi, I’m Alex — I’m a full-stack developer with a background in **Physics (M.Sc.)**</span>
 
 
 
