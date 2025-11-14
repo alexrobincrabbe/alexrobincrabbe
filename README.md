@@ -6,10 +6,7 @@
 # <span color="#00c951">Hi, I’m Alex — Full-Stack Developer & Creative Problem Solver</span>
 
 
-I’m a full-stack developer with a background in **Biomedical Physics (M.Sc.)**, now building intuitive, meaningful digital experiences with **Python**, **JavaScript/TypeScript**, and modern web frameworks.
-
-I love working on projects that mix creativity, data, and user-friendly design — from multiplayer games to AI-powered applications.
-
+I’m a full-stack developer with a background in **Biomedical Physics (M.Sc.)**.
 
 
 ---
