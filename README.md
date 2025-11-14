@@ -76,9 +76,7 @@ If you’re working on something interesting — especially in web development, 
 *(Optional — remove if you prefer a cleaner profile)*
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&show_icons=true&theme=transparent&layout=compact&hide=jupyter%20notebook,json&size_weight=0.3&count_weight=0.7&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ALEXROBINCRABBE&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&show_icons=true&theme=transparent&layout=compact&hide=jupyter%20notebook,json&size_weight=0.3&count_weight=0.7&langs_count=6) ![GitHub Streak](https://streak-stats.demolab.com/?user=ALEXROBINCRABBE&show_icons=true&theme=transparent)
 
 
 
