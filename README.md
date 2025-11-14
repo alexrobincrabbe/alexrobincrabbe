@@ -11,11 +11,12 @@ I’m a full-stack developer with a background in **Biomedical Physics (M.Sc.)**
 I love working on projects that mix creativity, data, and user-friendly design — from multiplayer games to AI-powered applications.
 
 
+
 ---
 
 ## What I’m Working On
 
-- <sub><img height="35" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/f4d20789-7747-44f5-9853-70198cf59033" /> </sub><text...— an online real-time word game built with **Django**, **Channels**, **WebSockets** ,
+- <sub><img height="35" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real-time word game built with **Django**, **Channels**, **WebSockets** ,
   Multiplayer, chat, ranking system, weekly leaderboards, tournaments, message forum, CloudAMQP, and more.
 
 - 🌱 **Mood Gardens** — a React/TypeScript + FastAPI app that uses **AI** to generate symbolic garden scenes from diary entries  
