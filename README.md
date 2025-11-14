@@ -13,9 +13,7 @@
 
 ## What I’m Working On
 
-- <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real-time word game built with **Django**, **Channels**, **WebSockets** , CloudAMQP,
-  Multiplayer, chat, ranking system, weekly leaderboards, tournaments, message forum and more.
-
+- <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real time word game site built with Django, Django Channles, Websocket, CloudAMQP. Featuring multiplayer and solo games, profiles, activity feed, chat, ranking system, weekly, monthly and all time leaderboards, tournaments, message forum and more.
 - <sub><img height="30" alt="moodgardens-Photoroom" src="https://github.com/user-attachments/assets/9fb77c13-0954-42db-9f19-b15745a6146e" /></sub>
  — a React + Express.js app that uses **AI** to generate symbolic garden scenes from diary entries  
   Includes shareable gardens, progress bars, a full image-generation pipeline, React, Expres.js, GraphQL, Prisma/Postgres, Redis/BullMQ.
