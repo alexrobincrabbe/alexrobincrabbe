@@ -75,6 +75,6 @@ If you’re working on something interesting — especially in web development, 
 ## 🧮 GitHub Stats  
 *(Optional — remove if you prefer a cleaner profile)*
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXROBINCRABBE&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&layout=compact&theme=transparent)
