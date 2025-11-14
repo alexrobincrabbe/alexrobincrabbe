@@ -15,7 +15,7 @@ I love working on projects that mix creativity, data, and user-friendly design �
 
 ## What I’m Working On
 
-- <img height="35" style="vertical-align: -20px;" alt="boojumgames" src="https://github.com/user-attachments/assets/f4d20789-7747-44f5-9853-70198cf59033" /> — an online real-time word game built with **Django**, **Channels**, **WebSockets** ,
+- <img height="35" style="vertical-align: -20;" alt="boojumgames" src="https://github.com/user-attachments/assets/f4d20789-7747-44f5-9853-70198cf59033" /> — an online real-time word game built with **Django**, **Channels**, **WebSockets** ,
   Multiplayer, chat, ranking system, weekly leaderboards, tournaments, message forum, CloudAMQP, and more.
 
 - 🌱 **Mood Gardens** — a React/TypeScript + FastAPI app that uses **AI** to generate symbolic garden scenes from diary entries  
