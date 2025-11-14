@@ -16,7 +16,7 @@ I love working on projects that mix creativity, data, and user-friendly design â
 
 ---
 
-## ðŸ§° Tech Stack
+## Tech Stack
 
 ### **Languages**
 - Python  
@@ -28,24 +28,22 @@ I love working on projects that mix creativity, data, and user-friendly design â
 - React (TS)  
 - Vite  
 - Tailwind CSS
-- 
 
 ### **Backend**
 - Django & Django REST Framework  
 - FastAPI  
 - Express.js & GraphQL  
-- WebSockets / Django Channels / RabbitMQ  
-- Prisma ORM  
-- Redis (BullMQ queues)
+- WebSockets / Django Channels  
+- Prisma ORM
 
-- ### ðŸ§µ Data & Messaging
-- PostgreSQL / SQL  
+### ðŸ§µ **Data & Messaging**
+- PostgreSQL  
 - Redis (caching, queues)  
-- RabbitMQ (message broker)  
+- RabbitMQ (message broker)
 
 ### **DevOps & Tools**
 - Docker (learning)  
-- Azure (Postgres, Functions, VM)  
+- Azure (Postgres, Functions, VM, database)  
 - Heroku  
 - Cloudinary  
 - GitHub Actions  
