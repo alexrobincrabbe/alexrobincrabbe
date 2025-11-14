@@ -1,5 +1,5 @@
 
-<img width="1023" height="594" alt="ARC" src="https://github.com/user-attachments/assets/27622987-8b48-46cd-91ab-5c9016e3fb8b" />
+<img height="200" alt="ARC" src="https://github.com/user-attachments/assets/27622987-8b48-46cd-91ab-5c9016e3fb8b" />
 
 # ✨ Hi, I’m Alex — Full-Stack Developer & Creative Problem Solver
 
