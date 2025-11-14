@@ -77,7 +77,7 @@ If you’re working on something interesting — especially in web development, 
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALEXROBINCRABBE&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBE&hide=jupyter%20notebook,json&size_weight=0.3&count_weight=0.7&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXROBINCRABBEshow_icons=true&theme=transparent&hide=jupyter%20notebook,json&size_weight=0.3&count_weight=0.7&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ALEXROBINCRABBE)
 
