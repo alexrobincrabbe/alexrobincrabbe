@@ -3,6 +3,7 @@
 <img height="200" alt="ARC" src="https://github.com/user-attachments/assets/27622987-8b48-46cd-91ab-5c9016e3fb8b" />
 </div>
 <img width="1867" height="594" alt="ARC-wide (1)" src="https://github.com/user-attachments/assets/d22819f9-c96e-4b71-89cc-f18ccc4c1980" />
+<img width="1867" height="594" alt="ARC-wide" src="https://github.com/user-attachments/assets/5f1a3388-3c37-4612-8d83-8ef92c55afcf" />
 
 
 # <span color="#00c951">Hi, I’m Alex — Full-Stack Developer & Creative Problem Solver</span>
