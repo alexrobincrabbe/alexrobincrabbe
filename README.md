@@ -16,16 +16,16 @@ I love working on projects that mix creativity, data, and user-friendly design �
 
 ## What I’m Working On
 
-- <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real-time word game built with **Django**, **Channels**, **WebSockets** ,
-  Multiplayer, chat, ranking system, weekly leaderboards, tournaments, message forum, CloudAMQP, and more.
+- <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real-time word game built with **Django**, **Channels**, **WebSockets** , CloudAMQP,
+  Multiplayer, chat, ranking system, weekly leaderboards, tournaments, message forum and more.
 
 - <sub><img height="30" alt="moodgardens-Photoroom" src="https://github.com/user-attachments/assets/9fb77c13-0954-42db-9f19-b15745a6146e" /></sub>
  — a React + Express.js app that uses **AI** to generate symbolic garden scenes from diary entries  
-  Includes shareable gardens, progress bars, a full image-generation pipeline, Prisma/Postgres, Redis/BullMQ, and a polished UI.
+  Includes shareable gardens, progress bars, a full image-generation pipeline, React, Expres.js, GraphQL, Prisma/Postgres, Redis/BullMQ.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -61,11 +61,6 @@ I love working on projects that mix creativity, data, and user-friendly design �
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-
----
-
-## 🌍 Find Me Online
-- **Portfolio:** https://alex-crabbe.vercel.app  
 
 ---
 
