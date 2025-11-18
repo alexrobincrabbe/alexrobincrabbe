@@ -15,10 +15,10 @@
 
 - <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real time word game site built with Django, Django Channles, Websocket, CloudAMQP. Featuring multiplayer and solo games, profiles, activity feed, chat, ranking system, weekly, monthly and all time leaderboards, tournaments, message forum and more.
 - <sub><img height="30" alt="moodgardens-Photoroom" src="https://github.com/user-attachments/assets/9fb77c13-0954-42db-9f19-b15745a6146e" /></sub>
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexrobincrabbe&repo=wordwell2)
 
  — a React + Express.js (GraphQL, Prisma/Postgres, Redis/BullMQ) that uses AI to transform journal entries into symbolic garden illustrations. Each picture is generated from the user’s own words, translating mood and emotion into colour, light and natural forms.
 Includes shareable gardens, progress bars, a calendar of past entries, a full image-generation pipeline.
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexrobincrabbe&repo=MoodGardens-Frontend)
 
 ## Tech Stack
 
