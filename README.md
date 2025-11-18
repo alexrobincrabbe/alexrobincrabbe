@@ -18,7 +18,8 @@
 
  — a React + Express.js (GraphQL, Prisma/Postgres, Redis/BullMQ) that uses AI to transform journal entries into symbolic garden illustrations. Each picture is generated from the user’s own words, translating mood and emotion into colour, light and natural forms.
 Includes shareable gardens, progress bars, a calendar of past entries, a full image-generation pipeline.
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=alexrobincrabbe&repo=MoodGardens-Frontend)
+
+[![Boojum Games Repo](https://github-readme-stats.vercel.app/api/pin/?username=alexrobincrabbe&repo=MoodGardens-Frontend)](https://github.com/alexrobincrabbe/MoodGardens-Frontend)
 
 ## Tech Stack
 
