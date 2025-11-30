@@ -31,6 +31,7 @@ Includes shareable gardens, progress bars, a calendar of past entries, a full im
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ### **Backend**  
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
