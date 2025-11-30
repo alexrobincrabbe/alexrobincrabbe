@@ -16,8 +16,7 @@
 - <sub><img height="30" style="vertical-align: text-bottom;" alt="boojumgames" src="https://github.com/user-attachments/assets/45b7153d-bea1-4097-a4c0-e078f566ebea" /> </sub> — an online real time word game site built with Django, Django Channles, Websocket, CloudAMQP. Featuring multiplayer and solo games, profiles, activity feed, chat, ranking system, weekly, monthly and all time leaderboards, tournaments, message forum and more.
 - <sub><img height="30" alt="moodgardens-Photoroom" src="https://github.com/user-attachments/assets/9fb77c13-0954-42db-9f19-b15745a6146e" /></sub> — a React + Express.js (GraphQL, Prisma/Postgres, Redis/BullMQ) application that uses AI to transform journal entries into symbolic garden illustrations. Each picture is generated from the user’s own words, translating mood and emotion into colour, light and natural forms.
 Includes shareable gardens, progress bars, a calendar of past entries, a full image-generation pipeline.
-- <sub><img height="30" alt="portfolio-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/4b120476-32ad-40ac-84f3-f65b88a6ca34" /></sub> — a React + fastAPI (GraphQL, Prisma/Postgres, Redis/BullMQ) applicaton that showcases my projects, and integrates RAG to answer questions about me.
-- 
+- <sub><img height="30" alt="portfolio-ezgif com-gif-maker" src="https://github.com/user-attachments/assets/4b120476-32ad-40ac-84f3-f65b88a6ca34" /></sub> — a full-stack personal portfolio built with React, Vite, Tailwind and FastAPI, featuring an AI assistant powered by a custom RAG pipeline (OpenAI + embeddings). Includes an interactive chat trained on my CV and background PDFs, a project showcase, and a contact form that sends messages directly to my inbox.
 Includes shareable gardens, progress bars, a calendar of past entries, a full image-generation pipeline.
 
 ## Tech Stack
